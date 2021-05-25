@@ -1,0 +1,16 @@
+C:\Users\dev\Desktop\Exercicio Sobrecarga\bin\Debug\net5.0\Exercicio Sobrecarga.exe
+C:\Users\dev\Desktop\Exercicio Sobrecarga\bin\Debug\net5.0\Exercicio Sobrecarga.deps.json
+C:\Users\dev\Desktop\Exercicio Sobrecarga\bin\Debug\net5.0\Exercicio Sobrecarga.runtimeconfig.json
+C:\Users\dev\Desktop\Exercicio Sobrecarga\bin\Debug\net5.0\Exercicio Sobrecarga.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Exercicio Sobrecarga\bin\Debug\net5.0\Exercicio Sobrecarga.dll
+C:\Users\dev\Desktop\Exercicio Sobrecarga\bin\Debug\net5.0\ref\Exercicio Sobrecarga.dll
+C:\Users\dev\Desktop\Exercicio Sobrecarga\bin\Debug\net5.0\Exercicio Sobrecarga.pdb
+C:\Users\dev\Desktop\Exercicio Sobrecarga\obj\Debug\net5.0\Exercicio Sobrecarga.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Exercicio Sobrecarga\obj\Debug\net5.0\Exercicio Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dev\Desktop\Exercicio Sobrecarga\obj\Debug\net5.0\Exercicio Sobrecarga.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Exercicio Sobrecarga\obj\Debug\net5.0\Exercicio Sobrecarga.AssemblyInfo.cs
+C:\Users\dev\Desktop\Exercicio Sobrecarga\obj\Debug\net5.0\Exercicio Sobrecarga.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Exercicio Sobrecarga\obj\Debug\net5.0\Exercicio Sobrecarga.dll
+C:\Users\dev\Desktop\Exercicio Sobrecarga\obj\Debug\net5.0\ref\Exercicio Sobrecarga.dll
+C:\Users\dev\Desktop\Exercicio Sobrecarga\obj\Debug\net5.0\Exercicio Sobrecarga.pdb
+C:\Users\dev\Desktop\Exercicio Sobrecarga\obj\Debug\net5.0\Exercicio Sobrecarga.genruntimeconfig.cache
